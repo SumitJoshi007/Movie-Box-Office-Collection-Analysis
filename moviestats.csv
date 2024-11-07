@@ -1,0 +1,53 @@
+MovieName,Day,Day_Number,Karnataka,APTG,TamilNadu,Kerala,RestOfIndia,Total
+RRR,Day 1 [1st Friday],1,14.5,102.5,10,4,25,156
+RRR,Day 2 [1st Saturday],2,12.5,48.5,10,3.5,29.5,104
+RRR,Day 3 [1st Sunday],3,11.5,52.5,12,4.5,39.5,120
+RRR,Day 4 [1st Monday],4,4.1,29.25,4.4,0.3,21,59.05
+RRR,Day 5 [1st Tuesday],5,3.6,20.5,4.1,0.7,18.4,47.3
+RRR,Day 6 [1st Wednesday],6,3.3,14.8,3.8,1.4,16,39.3
+RRR,Day 7 [1st Thursday],7,3.1,11.7,3.6,1.2,14.55,34.15
+Jawaan,Day 1 [1st Thursday],1,7.1,9.3,7.3,3.5,62.3,89.5
+Jawaan,Day 2 [1st Friday],2,4.9,6.3,5.6,1.7,45,63.5
+Jawaan,Day 3 [1st Saturday],3,8.2,8.9,7.4,2.05,66.45,93
+Jawaan,Day 4 [1st Sunday],4,8.2,8.5,7.1,2.25,69.75,95.8
+Jawaan,Day 5 [1st Monday],5,2.5,2.8,2.3,0.7,30.8,39.1
+Jawaan,Day 6 [1st Tuesday],6,2,2.2,1.8,0.6,24.2,30.8
+Jawaan,Day 7 [1st Wednesday],7,1.8,2,1.7,0.5,21.5,27.5
+Baahubali 2,Day 1 [1st Friday],1,19.5,57,9.25,5.45,60.8,152
+Baahubali 2,Day 2 [1st Saturday],2,10,23.2,11,5.8,60,110
+Baahubali 2,Day 3 [1st Sunday],3,9.5,25.5,11.5,6,67.5,120
+Baahubali 2,Day 4 [1st Monday],4,7.5,20,11.25,5.75,58.5,103
+Baahubali 2,Day 5 [1st Tuesday],5,6.5,16,9,5.5,40,77
+Pushpa,Day 1 [1st Friday],1,6.8,35.5,2.5,4.3,3.7,52.8
+Pushpa,Day 2 [1st Saturday],2,4.4,20.7,2.8,5.2,3.3,36.4
+Pushpa,Day 3 [1st Sunday],3,3.5,22.3,2.7,6.55,3.7,38.75
+Pushpa,Day 4 [1st Monday],4,0.8,11.3,1.05,5.2,1.3,19.65
+Pushpa,Day 5 [1st Tuesday],5,0.6,6.4,0.7,4.9,1,13.6
+Pushpa,Day 6 [1st Wednesday],6,0.45,3.6,0.5,4.15,0.8,9.5
+Pushpa,Day 7 [1st Thursday],7,0.3,2.2,0.35,4.05,0.65,7.55
+Jailer,Day 1 [1st Thursday],1,11.8,12.5,23.4,5.9,3,56.6
+Jailer,Day 2 [1st Friday],2,4.05,4.5,16.1,4.8,0.85,30.3
+Jailer,Day 3 [1st Saturday],3,6.8,7.05,18.8,6.15,1.4,40.2
+Jailer,Day 4 [1st Sunday],4,7.6,9.3,23.9,7.1,1.7,49.6
+Jailer,Day 5 [1st Monday],5,4.4,6,12.3,4.3,0.6,27.6
+Jailer,Day 6 [1st Tuesday],6,7.15,10.5,18.5,5.5,1.25,42.9
+Jailer,Day 7 [1st Wednesday],7,2.6,3.65,8.6,2.15,0.5,17.5
+Leo,Day 1 [1st Thursday],1,14.1,15.4,30.2,12,4.5,76.2
+Leo,Day 2 [1st Friday],2,4.1,5.3,22.8,5.85,2.25,40.3
+Leo,Day 3 [1st Saturday],3,5.3,5.2,24.1,7,3.5,45.1
+Leo,Day 4 [1st Sunday],4,4.85,4.15,26.2,7.9,3.7,46.8
+Leo,Day 5 [1st Monday],5,3.3,3.05,24.2,7.15,2.4,40.1
+Leo,Day 6 [1st Tuesday],6,3.35,4.05,20.15,5.2,3.35,36.1
+Leo,Day 7 [1st Wednesday],7,1.35,2.2,8.25,2.1,1.9,15.8
+Salaar,Day 1 [1st Friday],1,11.65,67.1,4.9,4.65,18.8,107.1
+Salaar,Day 2 [1st Saturday],2,7.25,33.5,4,2.65,19.3,66.7
+Salaar,Day 3 [1st Sunday],3,6.7,35.6,4.1,2.3,24.8,73.5
+Salaar,Day 4 [1st Monday],4,4.65,28.4,2.7,1.8,16.65,54.2
+Salaar,Day 5 [1st Tuesday],5,2.2,16.2,1.1,1.05,8.85,29.4
+Salaar,Day 6 [1st Wednesday],6,1.3,7.1,1.05,0.8,8.05,18.3
+Salaar,Day 7 [1st Thursday],7,1.2,4,0.95,0.65,7.5,14.3
+Goat,Day 1 [1st Thursday],1,10,3.75,29.5,5.75,3,52
+Goat,Day 2 [1st Friday],2,3.25,1.7,21.5,1.5,2.05,30
+Goat,Day 3 [1st Saturday],3,4.75,2.5,27,1.75,3.25,39.25
+Goat,Day 4 [1st Sunday],4,4.25,1.85,28,1.65,4,39.75
+Goat,Day 5 [1st Monday],5,0.85,0.65,14,0.5,1.25,17.25
